@@ -8,6 +8,7 @@
 int main(void)
 {
 	int n = 'a';
+
 	for (n = 'a'; n <= 'z'; n++)
 	{
 		putchar (n);
